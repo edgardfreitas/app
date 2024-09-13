@@ -16,8 +16,8 @@
 
   // workbench
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "catppuccin-frappe",
-  "workbench.colorTheme": "Catppuccin Frappé",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "workbench.colorTheme": "Catppuccin Mocha",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
